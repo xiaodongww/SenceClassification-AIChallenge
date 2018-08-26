@@ -1,0 +1,2 @@
+fine tuned from https://github.com/CSAILVision/places365
+Places205-VGGNet-19_lr_7-step2_iter_4000.caffemodel   0.9504

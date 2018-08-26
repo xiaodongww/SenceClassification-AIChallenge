@@ -1,0 +1,4 @@
+finetuned form https://github.com/hujie-frank/Places2-CNNs
+
+
+Places2-365-CNN-step3_lr_7_iter_8000.caffemodel 0.9622

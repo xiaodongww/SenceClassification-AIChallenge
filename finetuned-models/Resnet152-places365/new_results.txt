@@ -1,0 +1,2 @@
+fine tuned from https://github.com/CSAILVision/places365
+ResNet152-places365-lre7_iter_28000.caffemodel 0.9536
